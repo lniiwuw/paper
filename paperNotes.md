@@ -267,7 +267,6 @@ $$
 $$
 \frac{du_{ij}(t)}{dt}=
 k_{ij} \frac{G\big(v(t),U(t),x(t),m(t)\big)}{\partial u_{i,j}(t)}
-
 \mid_{v(t)=\big(u_{i1}(t),...,u_{ip}(t)\big)}
 \tag{5}
 $$
